@@ -1,6 +1,5 @@
-name: "🐞 Bug Report2"
-description: "Report a reproducible bug in the project"
-labels: 🐞 Bug
+name: "\U0001F41B Bug Report"
+description: "Report a reproducible bug in the Project."
 body:
 - type: markdown
   attributes:
