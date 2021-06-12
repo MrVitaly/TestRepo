@@ -1,4 +1,4 @@
-﻿name: "🐞 Bug Report"
+name: "🐞 Bug Report2"
 description: "Report a reproducible bug in the project"
 labels: 🐞 Bug
 body:
